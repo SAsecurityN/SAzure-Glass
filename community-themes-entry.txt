@@ -1,8 +1,1 @@
- {
-    "name": "Azure Glass",
-    "author": "SAsecurityN",
-    "repo": "SAsecurityN/SAzure-glass",
-    "screenshot": "test1.png",
-    "modes": ["dark", "light"]
-  }
-
+Curious?
