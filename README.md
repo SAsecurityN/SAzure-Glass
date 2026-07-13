@@ -13,15 +13,6 @@ Features:
 ![screenshot](screenshot.png)
 ![showcase](test1.png)
 
-## Installation
-
-**From the community themes gallery:** Settings → Appearance → Themes →
-Manage → search for **SAzure Glass** → Install and use.
-
-**Manual:** copy `manifest.json` and `theme.css` into
-`YourVault/.obsidian/themes/SAzure Glass/`, then select the theme under
-Settings → Appearance.
-
 ## Credits
 
 - Heading bars and callout styling inspired by the look of the [Willemstadt](https://willemstad.cc/Home) theme
