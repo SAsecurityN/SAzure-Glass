@@ -29,7 +29,7 @@ A blue-ish theme for Obsidian inspired by multiple existing themes, namely:
 
 ## Screenshots
 
-| Main View          | Settings             |
+| Main View          | Recomennded Settings             |
 |--------------------|----------------------|
 | ![Main](test1.png) | ![Settings](settings.png) |
 
