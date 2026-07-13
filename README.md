@@ -29,19 +29,13 @@ A blue-ish theme for Obsidian inspired by multiple existing themes, namely:
 
 ## Screenshots
 
-| Main View          | Recomennded Settings             |
-|--------------------|----------------------|
-| ![Main](test1.png) | ![Settings](settings.png) |
+![Main](test1.png) 
 
 ## Credits
 
 - Heading bars and callout styling inspired by the look of the [Willemstadt](https://willemstad.cc/Home) theme
 - The note pane's navy-and-neon palette is a nod to the [Hack The Box](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Hackthebox) colors. This theme is not affiliated with or endorsed by Hack The Box.
 - The blue-ish colors were inspired by the [Encore](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Encore) theme
-
-### Recommended settings
-
-![settings](settings.png)
 
 ## License
 
