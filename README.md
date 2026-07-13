@@ -4,6 +4,7 @@ A blue-ish theme for Obsidian inspired by multiple existing themes, namely:
 - [Encore](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Encore)
 - [HackTheBox](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Themes/Hackthebox)
 - [Willemstadt](https://willemstad.cc/Home)
+  
 ![Screenshot](screenshot.png)
 
 ## Features
